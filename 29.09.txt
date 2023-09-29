@@ -1,0 +1,8 @@
+html
+<video src = 'put' controls = 'true' id = '3'></video>
+
+.js
+
+let video = document.getElementById('3')
+text2.style.color = 'blue'
+.width

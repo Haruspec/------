@@ -1,0 +1,18 @@
+отладка:
+
+a = 0
+b = 2
+c = none
+
+0	2	none
+_	_	____	a+1
+a	b	  c
+
+for x in (a,b):
+sum+=x
+
+
+
+A = [1, 'G', 4, None, (1, 2, 3)]
+for x in A:
+	x = x+1

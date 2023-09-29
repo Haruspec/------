@@ -1,0 +1,78 @@
+H1{
+    
+    color: rgb(140, 155, 167);
+    font-size:200%;
+}
+
+test {
+    color: rgb(140, 155, 167);
+}
+
+ol {
+    color:rgb(140, 155, 167);
+    font-size: larger;
+}
+
+.lu {
+    color:lightslategray;
+}
+
+de {
+    color: rgb(140, 155, 167);
+    font-size: larger;
+}
+
+.le {
+    color:cornflowerblue;
+}
+
+.la {
+    color:darkgrey;
+}
+
+summary {
+    color:aliceblue;
+}
+
+figure {
+    color:aliceblue;
+}
+
+figcaption {
+    color:aliceblue;
+}
+
+li {
+    color:rgb(140, 155, 167);
+}
+
+
+footer {
+    color:rgb(214, 225, 234);
+}
+
+a {
+    color: rgb(140, 155, 167);
+}
+
+table {
+    font-weight: 'bold';
+    background-color: rgb(208, 255, 0);
+    color:rgb(140, 155, 167);
+}
+
+e {
+    background-color: rgb(59, 63, 66);
+    color:rgb(154, 149, 149);
+    float: right;
+    margin: 7px 7px 7px
+}
+
+/* p {
+    background-color: rgb(59, 63, 66);
+    color:rgb(154, 149, 149);
+} */
+
+br {
+    font-weight: 100;
+}

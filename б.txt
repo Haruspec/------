@@ -1,0 +1,19 @@
+Алгоритмы 
+Линейный цикл - один цикл
+Квадратичная сложность - в случае наличия вложенности (цикл в цикле)
+Кубическая сложность - цикл в цикле в цикле
+
+
+2) AabcafgGh
+str = INPUT('Введите текст')
+alphabct = 'AabcfgGh'
+for symbokinSTR:
+	for letter in alphabet:
+		if letter == ssymbol:
+		 	count+=1
+
+
+'AabcafgGh'. 'BGPKФ', 'GПРрФф'. -> content
+for STR in content:
+	for symbolinSTR:
+

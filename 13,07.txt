@@ -1,0 +1,17 @@
+print('a' * 3 * * 2)
+
+codeBra.ru
+
+x = [j for i in range(5)]
+y = [::2]
+y[0] = 10
+print(x[0])
+
+1) переход на новую страницу
+2) Настроить стили
+3) добавить ссылки на страницу
+
+target = '_self'>
+= '_blank'
+
+mail to: salogub.05@inbox.ru>Все вопросы:</a>

@@ -1,0 +1,2 @@
+Let Login = prompt('Введите логин')
+let pass = prompt('Введите пароль')

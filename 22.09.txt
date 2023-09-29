@@ -1,0 +1,21 @@
+	Массивы
+
+let arr = newArray()
+let arr = []
+let fruits = ['яблоко', 'банан', 'апельсин']
+
+<script src = 'test Arrays.js'>
+</script>
+
+pop() u push()
+
+pop - удаляет с конца
+push - добавляет в конец
+
+for( let i = o, i < fruits.lenght; i++) {
+alert(fruits[i])
+
+Многогранные массивы:
+let A =[ [1, 2, 3], 
+	[4, 5, 6],
+	[7, 8, 9], ];

@@ -1,0 +1,32 @@
+<detaies> - позволяет создавать раскрываемый блок
+Пример: 
+	<detaies>
+		<summary> Раскрыть </summary>
+		<vl> 
+			<li> Элемент1 </li>
+			<li>Элемент2</li>
+		</vl>
+	<delaies>
+
+<iframe> - позволяет встраивать на веб-страницу ещё веб-страницу
+<iframe src = 'http://wikipedia.com' width = 400 heigh=200>
+</frame>
+
+
+<figure> - для аннотаций различных иллюстраций, диаграмм
+
+<iframe src = 'http://wikipedia.com' width = 400 heigh=200>
+        </iframe>
+
+        <figcaption>Тот самыйросто заголовок
+        <figure>
+            <figcaption>Тот самый текст</figcaption>
+            <img src = 't.jpg' alt = 'То самое описание'>
+        </figure>
+
+
+<form > Нужны для ввода и отправки данных </form>
+<form> 
+	<input name = 'Login'>
+	<input type = 'submit'>
+</form>

@@ -1,0 +1,86 @@
+<!DOCTYPE HTML>
+<head>
+    <link rel = 'stylesheet' href = 'mysi.css'>
+    <
+    <meta charset = "utf-8">
+    <title>Зодание</title>
+    <style>
+        body {
+            background: url(oneone.png);
+        }
+    </style>
+</head>
+
+<body  id="a">
+    <form>
+        <p>BG color</p>
+<input id="z1" type="color" list="d">
+<datalist id='color'>
+    <option value = '#0000ff' label="blue">
+    <option value = '#008000' label = "green">
+    <option value = '#ff0000' label = "red">
+</datalist>
+<button onclick="document.getElementById('a').style.background = document.getElementById('z1').value">Accept BG color</button>
+
+    
+<p>Border color</p>
+<input id="z2" type="color" list="d">
+<datalist id='color'>
+    <option value = '#0000ff' label="blue">
+    <option value = '#008000' label = "green">
+    <option value = '#ff0000' label = "red">
+</datalist>
+<button onclick="document.getElementById('b').style.borderColor = document.getElementById('z2').value">Accept border color</button>
+
+<p>Font color</p>
+<input id="z3" type="color" list="d">
+<datalist id='color'>
+    <option value = '#0000ff' label="blue">
+    <option value = '#008000' label = "green">
+    <option value = '#ff0000' label = "red">
+</datalist>
+<button onclick="document.getElementById('a').style.color = document.getElementById('z3').value">Accept font color</button>
+    </form>
+    <input type = 'text' placeholder="Квадраты и кубы:" id='3'>
+    </form>
+    <form>
+    <input type = 'submit'>
+    <input type = 'date'>
+    </form>
+    <button class = "form-btn" onClick = oi()></button>
+    <h1 class = "auth">Авторизация</h1>
+    <test>Введите логин:</test>
+    <br>
+    <input type = "text" placeholder = "Логин" id = '1'>
+    <br>
+    <test>Введите пароль:</test>
+    <br>
+    <form>
+    <input type = "text" placeholder = "Пароль">
+    </form>
+    <br>
+    <test>Введите email:</test>
+    <br>
+    <input type = 'text' placeholder="Email">
+    <br>
+    <test>Введите телефон:</test>
+    <br>
+    <input type = 'text' placeholder="Телефон">
+    <br>
+    <button class = "form-btn" onClick = checkUser()><img src = "a.jpg"></button>
+    <button onclick="window.location.href='https://google.com'" target = '_blank'><img src = 'e.jpg'></button>
+    <script src = 'maini.js'></script>
+
+    <table border = '2' width = '50%' id = 'b'>
+        <tr>
+            <th><small>Джонни</small></th>
+            <th><big>Джонни дубль два</big></th>
+        </tr>
+        <tr>
+            <td><img src = "804.png"></td>
+            <th><img src = "408.png"></th>
+        </tr>
+    </table>
+    <br>
+    <button class = "form-btn" onClick = er()>AAAA</button>
+</body>

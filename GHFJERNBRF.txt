@@ -1,0 +1,103 @@
+Learn.Javascriot.ru
+.html
+
+ 	<script>
+		alert("Привет, мир!")
+	</script>
+
+
+
+
+//Объявление переменной
+document.write("<h2> Привет, мир! </h2>")
+
+1) буквы, цифры или символы
+$ и _
+2) первый символ не должен быть цифрой
+
+count += 1
+name = 'Иван'
+
+let name = 'Евгений', age = 24, id = 0
+
+в области видимости:
+var name = 'Иван'
+for ... // if false ...
+	var name
+alert(name)
+
+
+'use strict'
+my_name = 'Антон'
+alert(my_name)
+
+
+'use strict'
+name = 'Антон'
+
+const name = 'Иван'    
+let count = 0
+
+a = [1, 'str', 5, 'G']
+
+let name = 'Иван'
+alert('Привет, +' name)
+alert(`Привет, ${name}`)
+
+
+'use strict'
+my_name = 'Антон'
+alert(my_name)
+
+const name = 'Иван'    
+let count = 0
+
+//Начало программы
+    /*Привет,
+    мир*/
+
+
+
+let message = 'Привет, чужак!'
+alert(message)
+document.write(message)
+let u_name = prompt('Как тебя зовут?')
+alert(u_name)
+document.write(u_name)
+let age = prompt('Сколько тебе лет?')
+alert(age)
+document.write(age)
+let live = prompt('Где ты живёшь?')
+alert(live)
+document.write(live)
+
+
+let message = 'Для продолжения вам нужен логин и пароль!'
+alert(message)
+document.write(message)
+
+let u_name = prompt('Введите логин, пж:')
+alert(u_name)
+document.write(u_name)
+
+
+let age = prompt('А пароль?')
+alert(age)
+document.write(age)
+
+
+
+Let message = 'hello'
+message = 1234
+let is Admin = true
+let count = 5 / 0 -> infinity
+= 'Привет' / 5 -> NaN
+
+1) let sum = 5 + 6
+2) let concat = 'Привет' + name
+3) let is Num = name / sum
+4) let is Num = div id Nan
+
+let u_name = ', Дарья'
+let concat = 'Халлоу' + u_name
+alert(concat)
